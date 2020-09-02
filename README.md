@@ -1,4 +1,4 @@
-# leecode刷题笔记
+# leetcode刷题笔记
 
 [![Travis](https://img.shields.io/badge/language-Java-blue.svg)](.)
 [![Travis](https://img.shields.io/badge/language-Rust-red.svg)](.)
