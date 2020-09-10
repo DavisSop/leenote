@@ -1,8 +1,6 @@
 # leetcode刷题笔记
 
 [![Travis](https://img.shields.io/badge/language-Java-blue.svg)](.)
-[![Travis](https://img.shields.io/badge/language-Rust-red.svg)](.)
-[![Travis](https://img.shields.io/badge/language-Kotlin-yellow.svg)](.)
 
 leetcode题解，记录自己的leetcode解题之旅，同时也记录一些数据结构和算法的知识
 
@@ -24,4 +22,3 @@ leetcode题解，记录自己的leetcode解题之旅，同时也记录一些数�
 - 堆：最大堆 / 最小堆
 - 树与图：最近公共祖先、并查集
 - 字符串：前缀树（字典树）/ 后缀树
-
